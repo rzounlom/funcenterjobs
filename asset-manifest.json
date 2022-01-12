@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/funcenterjobs/static/css/main.f9cc5f55.css",
+    "main.js": "/funcenterjobs/static/js/main.39956f7a.js",
+    "static/js/787.aff94436.chunk.js": "/funcenterjobs/static/js/787.aff94436.chunk.js",
+    "static/media/hiring.jpg": "/funcenterjobs/static/media/hiring.a2dbc2f029f3eed39539.jpg",
+    "static/media/generations-logo-trans.png": "/funcenterjobs/static/media/generations-logo-trans.d2631be7f40567c7bfcd.png",
+    "index.html": "/funcenterjobs/index.html",
+    "main.f9cc5f55.css.map": "/funcenterjobs/static/css/main.f9cc5f55.css.map",
+    "main.39956f7a.js.map": "/funcenterjobs/static/js/main.39956f7a.js.map",
+    "787.aff94436.chunk.js.map": "/funcenterjobs/static/js/787.aff94436.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9cc5f55.css",
+    "static/js/main.39956f7a.js"
+  ]
+}
