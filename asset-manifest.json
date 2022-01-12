@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/funcenterjobs.com/static/css/main.ff5d9261.css",
-    "main.js": "/funcenterjobs.com/static/js/main.077dba6f.js",
-    "static/js/787.aff94436.chunk.js": "/funcenterjobs.com/static/js/787.aff94436.chunk.js",
-    "static/media/hiring.jpg": "/funcenterjobs.com/static/media/hiring.a2dbc2f029f3eed39539.jpg",
-    "static/media/generations-logo-trans.png": "/funcenterjobs.com/static/media/generations-logo-trans.d2631be7f40567c7bfcd.png",
-    "index.html": "/funcenterjobs.com/index.html",
-    "main.ff5d9261.css.map": "/funcenterjobs.com/static/css/main.ff5d9261.css.map",
-    "main.077dba6f.js.map": "/funcenterjobs.com/static/js/main.077dba6f.js.map",
-    "787.aff94436.chunk.js.map": "/funcenterjobs.com/static/js/787.aff94436.chunk.js.map"
+    "main.css": "/static/css/main.a6b8ec58.css",
+    "main.js": "/static/js/main.06e65279.js",
+    "static/js/787.aff94436.chunk.js": "/static/js/787.aff94436.chunk.js",
+    "static/media/hiring.jpg": "/static/media/hiring.a2dbc2f029f3eed39539.jpg",
+    "static/media/generations-logo-trans.png": "/static/media/generations-logo-trans.d2631be7f40567c7bfcd.png",
+    "index.html": "/index.html",
+    "main.a6b8ec58.css.map": "/static/css/main.a6b8ec58.css.map",
+    "main.06e65279.js.map": "/static/js/main.06e65279.js.map",
+    "787.aff94436.chunk.js.map": "/static/js/787.aff94436.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff5d9261.css",
-    "static/js/main.077dba6f.js"
+    "static/css/main.a6b8ec58.css",
+    "static/js/main.06e65279.js"
   ]
 }
